@@ -1,0 +1,19 @@
+name: VoxelWars
+version: 1.0
+description: Core plugin for the VoxelWars servers.
+authors: [FerusGrim, blackknight11, DannyDog]
+main: com.voxelwars.VoxelWars
+commands:
+  ban:
+  unban:
+  setrank:
+  sr:
+  clan:
+  c:
+  kick:
+  mute:
+  unmute:
+  help:
+  ?:
+  shop:
+  s:

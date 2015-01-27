@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "GR!M",
+    "name": "FerusGuard",
+    "home": "clan_world:122:74:163",
+    "members": [
+      {
+        "uuid": "54fe6e4c-f45a-43ef-8ca7-d2219b5090b4",
+        "role": "Leader"
+      },
+      {
+        "uuid": "a865e930-676e-3b77-acfb-63416a2fa2e6",
+        "role": "Elder"
+      },
+      {
+        "uuid": "54fe6e4c-676e-43ef-acfb-d2219b5090b4",
+        "role": "Member"
+      }
+    ],
+    "claims": [
+      "clan_world:10:10",
+      "clan_world:10:11",
+      "clan_world:10:12",
+      "clan_world:11:10",
+      "clan_world:11:11",
+      "clan_world:11:12",
+      "clan_world:12:10",
+      "clan_world:12:11",
+      "clan_world:12:12"
+    ]
+  }
+]

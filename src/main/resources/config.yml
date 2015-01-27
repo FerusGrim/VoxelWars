@@ -1,0 +1,6 @@
+sql:
+  host: localhost
+  port: 3336
+  database: voxelwars
+  username: root
+  password: toor
